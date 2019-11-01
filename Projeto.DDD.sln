@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.DDD.Infra.Data.Mong
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.DDD.Infra.CrossCutting.IoC", "Projeto.DDD.Infra.CrossCutting.IoC\Projeto.DDD.Infra.CrossCutting.IoC.csproj", "{2697B213-5BF4-4661-8BFA-8EB80B750247}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{EE886F57-4152-4951-B13E-4F522EE9BAFD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Test", "5 - Test", "{EE886F57-4152-4951-B13E-4F522EE9BAFD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.DDD.Test", "Projeto.DDD.Test\Projeto.DDD.Test.csproj", "{9C17279B-ACB4-4EAB-9D70-65868A1D0877}"
 EndProject
